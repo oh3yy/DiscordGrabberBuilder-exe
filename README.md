@@ -1,9 +1,6 @@
 ## Token Grabber Builder (Exe Version)
 a GUI demonstrating how Discord token grabbers can easily be created and compiled without any additional software. 
 
-## VERY IMPORTNAT
-For the source to work you need to install the package MetroFramework.
-
 ## About
 This tool should only be used for educational purposes only. Do not use this on others maliciously. This program demonstrates, in an easy GUI format, how token grabbers can be created and compiled to exe without any aditional software. 
 When this tool is used, it makes it easier to understand the process and methods of how the output .exe file searches for Discord tokens and the type of information it extracts from a user.
